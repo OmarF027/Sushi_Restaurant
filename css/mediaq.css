@@ -1,0 +1,74 @@
+@media (max-width: 768px) {
+    .menu-toggle {
+        position: fixed;
+        top: 25px;
+        right: 20px;
+    }
+
+    .navigation {
+        top: 0;
+        left: 0;
+        transform: translateX(0);
+        width: 100%;
+        height: 100%;
+        background-color: #000000;
+        padding: 0;
+    }
+
+    .navigation ul {
+        flex-direction: column;
+        gap: 20px;
+        margin-top: 40px;
+        padding: 0;
+        align-items: center;
+    }
+
+    .navigation ul li a {
+        font-size: 20px;
+        padding: 12px 20px;
+    }
+
+    .header {
+        flex-direction: column;
+        gap: 1rem;
+        padding: 1rem 2rem;
+    }
+
+    nav ul {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+    }
+
+    .hero h1 {
+        font-size: 2.2rem;
+    }
+
+    .contact-section {
+        grid-template-columns: 1fr;
+    }
+
+    .menu-container {
+        padding: 3rem 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .navigation ul li a {
+        font-size: 18px;
+        padding: 10px 15px;
+    }
+}
+
+/* ====================================================
+   ANIMAZIONI
+==================================================== */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+    from { opacity: 0; transform: translateY(40px); }
+    to { opacity: 1; transform: translateY(0); }
+}

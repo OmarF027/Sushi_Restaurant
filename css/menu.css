@@ -1,0 +1,23 @@
+.menu-container {
+    padding: 5rem 5%;
+    animation: slideUp 1s ease;
+}
+
+.menu-section {
+    margin: 3rem 0;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 2rem;
+}
+
+.menu-item {
+    margin: 1.5rem 0;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.menu-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
