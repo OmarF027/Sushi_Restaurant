@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/chisiamo.css">
     <link rel="stylesheet" href="css/toggle.css">
+    <link rel="stylesheet" href="css/offerta.css">
     <link rel="stylesheet" href="css/mediaq.css">
 </head>
 <body>
@@ -21,6 +22,7 @@
     <?php include('header.php'); ?>
     <?php include('hero.php'); ?>
     <?php include('chisiamo.php'); ?>
+    <?php include('offerta.php'); ?>
     <?php include('footer.php'); ?>
 
     <script src="script.js"></script>

@@ -20,7 +20,7 @@
           <p>
             Pranzo: 12:00 – 15:00<br>
             Cena: 19:00 – 23:00<br>
-            Lunedì Chiuso
+            Lunedì: Chiuso
           </p>
         </div>
 
@@ -48,7 +48,7 @@
         <p>© 2025 NAMEK – Tutti i diritti riservati</p>
         <p>
           Tel: 
-          <a href="tel:+390566234567" class="footer-link">+39 0566 234 567</a><br>
+          <a href="tel:+390564234567" class="footer-link">+39 0566 234 567</a> |
           Email: 
           <a href="mailto:info@namekgrosseto.com" class="footer-link">info@namekgrosseto.com</a>
         </p>
