@@ -19,9 +19,9 @@
 
       .map-card:hover, .info-card:hover {
         transform: translateY(-8px);
-        box-shadow: 0 20px 40px rgba(0, 123, 255, 0.7), 0 0 25px rgba(0, 123, 255, 0.5);
-        filter: brightness(1.1);
-      }
+        box-shadow: 0 14px 28px rgba(0, 0, 0, 0.12), 0 0 12px rgba(0, 0, 0, 0.04);
+        filter: brightness(1.04);
+}
     </style>
 </head>
 <body>
@@ -70,7 +70,7 @@
         </div>
         <div class="info-item" style="display: flex; align-items: flex-start;">
           <i class="fas fa-phone-alt" style="margin-top: 3px;"></i>
-          <p style="margin-left: 10px;"><a href="tel:+391234567890" class="hover-underline">+39 123 456 7890</a></p>
+          <p style="margin-left: 10px;"><a href="tel:+390564234567" class="hover-underline">+39 0564 234567</a></p>
         </div>
         <div class="info-item" style="display: flex; align-items: flex-start;">
           <i class="fas fa-envelope" style="margin-top: 3px;"></i>

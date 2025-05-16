@@ -77,8 +77,7 @@ body.contact-page {
 .info-card {
   flex: 1 1 500px;
   max-width: 550px;
-  background-color: #2e5939;
-  color: #fff;
+  background-color: #1db954; /* Verde Spotify */
   border-radius: 16px;
   padding: 30px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
@@ -105,7 +104,7 @@ body.contact-page {
 
 .map-card *,
 .info-card * {
-  color: #fff !important;
+  color: #000 !important;
 }
 
 .map-responsive iframe {

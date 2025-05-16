@@ -48,7 +48,7 @@
         <p>© 2025 NAMEK – Tutti i diritti riservati</p>
         <p>
           Tel: 
-          <a href="tel:+390564234567" class="footer-link">+39 0566 234 567</a> |
+          <a href="tel:+390564234567" class="footer-link">+39 0564 234 567</a> |
           Email: 
           <a href="mailto:info@namekgrosseto.com" class="footer-link">info@namekgrosseto.com</a>
         </p>
