@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Galleria - Namek</title>
+</head>
+<body>
+
 <?php
 include 'header.php';
 ?>

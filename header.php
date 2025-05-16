@@ -9,7 +9,6 @@
   <link rel="stylesheet" href="css/header.css" />
   <link rel="stylesheet" href="css/hero.css" />
   <link rel="stylesheet" href="css/menu.css" />
-  <link rel="stylesheet" href="css/contatti.css" />
   <link rel="stylesheet" href="css/footer.css" />
   <link rel="stylesheet" href="css/chisiamo.css" />
   <link rel="stylesheet" href="css/toggle.css" />
