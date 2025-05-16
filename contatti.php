@@ -9,7 +9,7 @@
           transform 0.5s cubic-bezier(0.4, 0, 0.2, 1),
           box-shadow 0.5s cubic-bezier(0.4, 0, 0.2, 1),
           filter 0.3s ease;
-        cursor: default; /* qui disattiviamo la manina */
+        cursor: default; 
         will-change: transform, box-shadow;
         box-shadow: 0 8px 20px rgba(0,0,0,0.3);
         border-radius: 12px;
